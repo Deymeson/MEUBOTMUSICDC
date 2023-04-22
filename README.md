@@ -35,7 +35,7 @@ module.exports = {
         discordPlayer: {}
     }
 };
-```
+```a
 
 Basic configuration
 
